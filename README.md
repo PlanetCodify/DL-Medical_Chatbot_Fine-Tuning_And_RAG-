@@ -1,5 +1,8 @@
 # Medical QA Bot: Fine-Tuning & RAG Implementation
 
+![Screenshot 2025-02-12 at 2 05 57 PM](https://github.com/user-attachments/assets/dc80c030-c9c5-4690-b525-1574234f1605)
+
+
 ## Project Summary
 This project involves building a **Medical Question-Answering (QA) Bot** using **Retrieval-Augmented Generation (RAG)** and fine-tuning **T5-small** on the **ChatDoctor dataset**. The workflow includes **data exploration, model fine-tuning, evaluation, deployment, and interactive UI implementation** using Gradio.
 
